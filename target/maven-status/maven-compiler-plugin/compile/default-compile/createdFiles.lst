@@ -1,0 +1,15 @@
+com\mockup\modelo\Producto.class
+com\mockup\modelo\Usuario.class
+com\mockup\mockup\JakartaRestConfiguration.class
+com\mockup\dao\DaoIngreso.class
+com\mockup\dao\DaoUtils.class
+com\mockup\dao\ConexionBD.class
+com\mockup\controlador\ControladorProducto.class
+com\mockup\modelo\Ingreso.class
+com\mockup\mockup\resources\JakartaEE8Resource.class
+com\mockup\dao\DaoProducto.class
+com\mockup\modelo\PasswordHasher.class
+com\mockup\dao\DaoUsuario.class
+com\mockup\controlador\ControladorRegistroUsuario.class
+com\mockup\controlador\ControladorIngreso.class
+com\mockup\modelo\Proceso.class
